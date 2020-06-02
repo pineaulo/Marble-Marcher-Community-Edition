@@ -11,6 +11,8 @@ Marcher
 Jouer
 #Levels
 Niveaux
+#Credits
+Crédits
 #Controls
 Contrôles
 #Settings
@@ -24,7 +26,7 @@ Oui
 #No
 Non
 #Best_time
-Meilleurs temps
+Scores
 #Edit
 Édition
 #Remove
@@ -60,10 +62,10 @@ Retour au menu
 #CreateNewLvl
 Créer un nouveau niveau
 #About
-Original by CodeParade, Community Edition
-Music by PettyTheft
+Idée originale de CodeParade, Édition communautaire
+Musique par PettyTheft
 #DetailControls
-Rouler        WASD ou Flèches
+Rouler        WASD ou Flèches directionnelles
 Camera        Souris
 Zoom          Molette
 Recommencer   R ou Clique droit
@@ -95,7 +97,7 @@ Félicitation, vous avez réussi tous les niveaux!
 
 
 
-Comme recompense, vous avez débloqué le mode triche!
+Comme récompense, vous avez débloqué le mode triche!
 Activez-le en appuyant sur F1 durant la partie.
 Merci d'avoir jouer!
 #CongratsMid
